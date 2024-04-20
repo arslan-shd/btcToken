@@ -67,16 +67,16 @@
   width: 19px;
   height: 19px;
   border-radius: 50%;
-  background: #44a08d;
+  background: #ac0272;
   position: absolute;
   left: 0;
   top: 3px;
 }
 .chart-list .list-wrap li:nth-child(2):before {
-  background: #033356;
+  background: #7600bc;
 }
 .chart-list .list-wrap li:nth-child(3):before {
-  background: #136f84;
+  background: #4c00b0;
 }
 .chart-list .list-wrap li:nth-child(4):before {
   background: #012641;
